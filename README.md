@@ -1,10 +1,12 @@
 # gobbler-rush
 prototype handheld game made using the arduino uno microcontroller on tinkercad
 
-
-  Simulation can be accessed through TinkerCAD
+simulation can be accessed through TinkerCAD through the link below;
+https://www.tinkercad.com/things/9L99ybvXnVi-cab202-assignmentfinal/editel?sharecode=MLtHn__CxYJ2NYW991xYSE3HuBZSnNDRZHkH0wXu4EE
   
-  After accessing the link, press 'Start Simulation' to run the program
+after accessing the link, press 'Start Simulation' to run the program
   
-  Enjoy :)
-
+there is YouTube video demo for the game accessible through this link;
+https://youtu.be/0In1Ejwq1aI
+  
+eat those berries! :)
